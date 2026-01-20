@@ -1,0 +1,1 @@
+"document.addEventListener('DOMContentLoaded', function() {\n  const createBotButton = document.getElementById('createBotButton');\n\n  createBotButton.addEventListener('click', function() {\n    alert('Функция в разработке');\n  });\n});\n"
